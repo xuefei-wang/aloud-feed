@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://xuefei-wang.github.io/read-aloud-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Tinker Overview</title>
+      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-tinker-overview.mp3" length="1450368" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-tinker-overview.mp3</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 -0800</pubDate>
+      <itunes:duration>4:01</itunes:duration>
+    </item>
+    <item>
       <title>Test Episode</title>
       <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-test-episode.mp3" length="14400" type="audio/mpeg"/>
       <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-test-episode.mp3</guid>
