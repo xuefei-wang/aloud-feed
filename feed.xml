@@ -28,5 +28,12 @@
       <pubDate>Sat, 28 Feb 2026 00:00:00 -0800</pubDate>
       <itunes:duration>0:02</itunes:duration>
     </item>
+    <item>
+      <title>Lessons Learned From Building Claude Code</title>
+      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-lessons-learned-from-building-claude-code.mp3" length="2009520" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-lessons-learned-from-building-claude-code.mp3</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 -0800</pubDate>
+      <itunes:duration>5:34</itunes:duration>
+    </item>
   </channel>
 </rss>
