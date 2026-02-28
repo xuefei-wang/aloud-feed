@@ -35,5 +35,12 @@
       <pubDate>Sat, 28 Feb 2026 00:00:00 -0800</pubDate>
       <itunes:duration>5:34</itunes:duration>
     </item>
+    <item>
+      <title>Give Claude A Computer</title>
+      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-give-claude-a-computer.mp3" length="1470528" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-give-claude-a-computer.mp3</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 -0800</pubDate>
+      <itunes:duration>4:05</itunes:duration>
+    </item>
   </channel>
 </rss>
