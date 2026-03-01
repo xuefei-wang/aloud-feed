@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://xuefei-wang.github.io/read-aloud-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Language Models Will Be Scaffolds</title>
+      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-language-models-will-be-scaffolds.mp3" length="954576" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-language-models-will-be-scaffolds.mp3</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 -0800</pubDate>
+      <itunes:duration>2:39</itunes:duration>
+    </item>
+    <item>
       <title>Introducing Perplexity Computer</title>
       <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-introducing-perplexity-computer.mp3" length="1258128" type="audio/mpeg"/>
       <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-introducing-perplexity-computer.mp3</guid>
