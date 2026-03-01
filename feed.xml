@@ -9,10 +9,10 @@
     <atom:link href="https://xuefei-wang.github.io/read-aloud-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>The Unification Of Representation Learning And Generative Modelling</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-the-unification-of-representation-learning-and-generative-modelling.mp3" length="4539888" type="audio/mpeg"/>
+      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-the-unification-of-representation-learning-and-generative-modelling.mp3" length="19287216" type="audio/mpeg"/>
       <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-the-unification-of-representation-learning-and-generative-modelling.mp3</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 -0800</pubDate>
-      <itunes:duration>12:36</itunes:duration>
+      <itunes:duration>53:34</itunes:duration>
     </item>
     <item>
       <title>The Flavor Of The Bitter Lesson For Computer Vision</title>
@@ -41,6 +41,13 @@
       <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-how-we-built-secure-scalable-agent-sandbox-infra.mp3</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 -0800</pubDate>
       <itunes:duration>6:03</itunes:duration>
+    </item>
+    <item>
+      <title>High Agency George Mack</title>
+      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-high-agency-george-mack.mp3" length="11482992" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-high-agency-george-mack.mp3</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 -0800</pubDate>
+      <itunes:duration>31:53</itunes:duration>
     </item>
     <item>
       <title>Harness Engineering Leveraging Codex In An Agent First World</title>
