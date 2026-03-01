@@ -8,6 +8,20 @@
     <language>en</language>
     <atom:link href="https://xuefei-wang.github.io/read-aloud-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>The Unification Of Representation Learning And Generative Modelling</title>
+      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-the-unification-of-representation-learning-and-generative-modelling.mp3" length="4539888" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-the-unification-of-representation-learning-and-generative-modelling.mp3</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 -0800</pubDate>
+      <itunes:duration>12:36</itunes:duration>
+    </item>
+    <item>
+      <title>The Flavor Of The Bitter Lesson For Computer Vision</title>
+      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-the-flavor-of-the-bitter-lesson-for-computer-vision.mp3" length="3169152" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-the-flavor-of-the-bitter-lesson-for-computer-vision.mp3</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 -0800</pubDate>
+      <itunes:duration>8:48</itunes:duration>
+    </item>
+    <item>
       <title>Language Models Will Be Scaffolds</title>
       <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-language-models-will-be-scaffolds.mp3" length="954576" type="audio/mpeg"/>
       <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-language-models-will-be-scaffolds.mp3</guid>
