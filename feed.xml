@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://xuefei-wang.github.io/read-aloud-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Stdin</title>
+      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-07-stdin.mp3" length="381600" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-07-stdin.mp3</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 -0800</pubDate>
+      <itunes:duration>1:03</itunes:duration>
+    </item>
+    <item>
       <title>Something Is Afoot In The Land Of Qwen</title>
       <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-04-something-is-afoot-in-the-land-of-qwen.mp3" length="1181088" type="audio/mpeg"/>
       <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-04-something-is-afoot-in-the-land-of-qwen.mp3</guid>
