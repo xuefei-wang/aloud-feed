@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://xuefei-wang.github.io/read-aloud-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Recursive Language Models</title>
+      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-09-recursive-language-models.mp3" length="8995536" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-09-recursive-language-models.mp3</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 -0700</pubDate>
+      <itunes:duration>24:59</itunes:duration>
+    </item>
+    <item>
       <title>Kiss Ai</title>
       <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-09-kiss-ai.mp3" length="1154592" type="audio/mpeg"/>
       <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-09-kiss-ai.mp3</guid>
