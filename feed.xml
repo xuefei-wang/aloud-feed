@@ -6,137 +6,137 @@
     <title>Read Aloud</title>
     <description>Personal TTS podcast feed</description>
     <language>en</language>
-    <atom:link href="https://xuefei-wang.github.io/read-aloud-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://xuefei-wang.github.io/aloud-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Clipboard Openclaw Rl Is A Framework That Systematically</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-14-clipboard-openclaw-rl-is-a-framework-that-systematically.mp3" length="146448" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-14-clipboard-openclaw-rl-is-a-framework-that-systematically.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-14-clipboard-openclaw-rl-is-a-framework-that-systematically.mp3" length="146448" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-14-clipboard-openclaw-rl-is-a-framework-that-systematically.mp3</guid>
       <pubDate>Sat, 14 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>0:24</itunes:duration>
     </item>
     <item>
       <title>Recursive Language Models</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-09-recursive-language-models.mp3" length="8995536" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-09-recursive-language-models.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-09-recursive-language-models.mp3" length="8995536" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-09-recursive-language-models.mp3</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>24:59</itunes:duration>
     </item>
     <item>
       <title>Kiss Ai</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-09-kiss-ai.mp3" length="1154592" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-09-kiss-ai.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-09-kiss-ai.mp3" length="1154592" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-09-kiss-ai.mp3</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>3:12</itunes:duration>
     </item>
     <item>
       <title>Anthropic Tracing The Thoughts Language Models</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-09-anthropic-tracing-the-thoughts-language-models.mp3" length="6023952" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-09-anthropic-tracing-the-thoughts-language-models.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-09-anthropic-tracing-the-thoughts-language-models.mp3" length="6023952" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-09-anthropic-tracing-the-thoughts-language-models.mp3</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>16:43</itunes:duration>
     </item>
     <item>
       <title>Stdin</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-07-stdin.mp3" length="381600" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-07-stdin.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-07-stdin.mp3" length="381600" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-07-stdin.mp3</guid>
       <pubDate>Sat, 07 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>1:03</itunes:duration>
     </item>
     <item>
       <title>Something Is Afoot In The Land Of Qwen</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-04-something-is-afoot-in-the-land-of-qwen.mp3" length="1181088" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-04-something-is-afoot-in-the-land-of-qwen.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-04-something-is-afoot-in-the-land-of-qwen.mp3" length="1181088" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-04-something-is-afoot-in-the-land-of-qwen.mp3</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>3:16</itunes:duration>
     </item>
     <item>
       <title>The Unification Of Representation Learning And Generative Modelling</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-the-unification-of-representation-learning-and-generative-modelling.mp3" length="19287216" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-the-unification-of-representation-learning-and-generative-modelling.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-the-unification-of-representation-learning-and-generative-modelling.mp3" length="19287216" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-the-unification-of-representation-learning-and-generative-modelling.mp3</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>53:34</itunes:duration>
     </item>
     <item>
       <title>The Flavor Of The Bitter Lesson For Computer Vision</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-the-flavor-of-the-bitter-lesson-for-computer-vision.mp3" length="3169152" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-the-flavor-of-the-bitter-lesson-for-computer-vision.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-the-flavor-of-the-bitter-lesson-for-computer-vision.mp3" length="3169152" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-the-flavor-of-the-bitter-lesson-for-computer-vision.mp3</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>8:48</itunes:duration>
     </item>
     <item>
       <title>Language Models Will Be Scaffolds</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-language-models-will-be-scaffolds.mp3" length="954576" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-language-models-will-be-scaffolds.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-language-models-will-be-scaffolds.mp3" length="954576" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-language-models-will-be-scaffolds.mp3</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>2:39</itunes:duration>
     </item>
     <item>
       <title>Introducing Perplexity Computer</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-introducing-perplexity-computer.mp3" length="1258128" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-introducing-perplexity-computer.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-introducing-perplexity-computer.mp3" length="1258128" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-introducing-perplexity-computer.mp3</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>3:29</itunes:duration>
     </item>
     <item>
       <title>How We Built Secure Scalable Agent Sandbox Infra</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-how-we-built-secure-scalable-agent-sandbox-infra.mp3" length="2180016" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-how-we-built-secure-scalable-agent-sandbox-infra.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-how-we-built-secure-scalable-agent-sandbox-infra.mp3" length="2180016" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-how-we-built-secure-scalable-agent-sandbox-infra.mp3</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>6:03</itunes:duration>
     </item>
     <item>
       <title>High Agency George Mack</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-high-agency-george-mack.mp3" length="12943440" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-high-agency-george-mack.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-high-agency-george-mack.mp3" length="12943440" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-high-agency-george-mack.mp3</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>35:57</itunes:duration>
     </item>
     <item>
       <title>Harness Engineering Leveraging Codex In An Agent First World</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-harness-engineering-leveraging-codex-in-an-agent-first-world.mp3" length="5336928" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-03-01-harness-engineering-leveraging-codex-in-an-agent-first-world.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-harness-engineering-leveraging-codex-in-an-agent-first-world.mp3" length="5336928" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-01-harness-engineering-leveraging-codex-in-an-agent-first-world.mp3</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>14:49</itunes:duration>
     </item>
     <item>
       <title>Tinker Overview</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-tinker-overview.mp3" length="1450368" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-tinker-overview.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-02-28-tinker-overview.mp3" length="1450368" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-02-28-tinker-overview.mp3</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 -0000</pubDate>
       <itunes:duration>4:01</itunes:duration>
     </item>
     <item>
       <title>The Third Era Of Ai Software Development</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-the-third-era-of-ai-software-development.mp3" length="1009152" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-the-third-era-of-ai-software-development.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-02-28-the-third-era-of-ai-software-development.mp3" length="1009152" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-02-28-the-third-era-of-ai-software-development.mp3</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 -0000</pubDate>
       <itunes:duration>2:48</itunes:duration>
     </item>
     <item>
       <title>Test Episode</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-test-episode.mp3" length="14400" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-test-episode.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-02-28-test-episode.mp3" length="14400" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-02-28-test-episode.mp3</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 -0000</pubDate>
       <itunes:duration>0:02</itunes:duration>
     </item>
     <item>
       <title>Prompt Caching Is Everything</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-prompt-caching-is-everything.mp3" length="1875456" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-prompt-caching-is-everything.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-02-28-prompt-caching-is-everything.mp3" length="1875456" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-02-28-prompt-caching-is-everything.mp3</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 -0000</pubDate>
       <itunes:duration>5:12</itunes:duration>
     </item>
     <item>
       <title>Lessons Learned From Building Claude Code</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-lessons-learned-from-building-claude-code.mp3" length="2009520" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-lessons-learned-from-building-claude-code.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-02-28-lessons-learned-from-building-claude-code.mp3" length="2009520" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-02-28-lessons-learned-from-building-claude-code.mp3</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 -0000</pubDate>
       <itunes:duration>5:34</itunes:duration>
     </item>
     <item>
       <title>Give Claude A Computer</title>
-      <enclosure url="https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-give-claude-a-computer.mp3" length="1470528" type="audio/mpeg"/>
-      <guid>https://xuefei-wang.github.io/read-aloud-feed/episodes/2026-02-28-give-claude-a-computer.mp3</guid>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-02-28-give-claude-a-computer.mp3" length="1470528" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-02-28-give-claude-a-computer.mp3</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 -0000</pubDate>
       <itunes:duration>4:05</itunes:duration>
     </item>
