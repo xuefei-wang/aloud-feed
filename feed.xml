@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://xuefei-wang.github.io/aloud-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Embedded Universal Predictive Intelligence Podcast</title>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-04-07-embedded-universal-predictive-intelligence-podcast.mp3" length="3493440" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-04-07-embedded-universal-predictive-intelligence-podcast.mp3</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>9:42</itunes:duration>
+    </item>
+    <item>
       <title>Audit Smoke Test Swarm</title>
       <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-25-audit-smoke-test-swarm.mp3" length="4664736" type="audio/mpeg"/>
       <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-03-25-audit-smoke-test-swarm.mp3</guid>
