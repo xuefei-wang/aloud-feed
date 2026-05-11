@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://xuefei-wang.github.io/aloud-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Moe Audio Script</title>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-05-10-moe-audio-script.mp3" length="2427984" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-05-10-moe-audio-script.mp3</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>6:44</itunes:duration>
+    </item>
+    <item>
       <title>2026 05 10 Harness Engineering Audio</title>
       <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-05-10-2026-05-10-harness-engineering-audio.mp3" length="5188896" type="audio/mpeg"/>
       <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-05-10-2026-05-10-harness-engineering-audio.mp3</guid>
