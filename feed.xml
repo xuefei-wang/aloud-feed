@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://xuefei-wang.github.io/aloud-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Daily Ai Research Reading 2026 06 18</title>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-06-18-daily-ai-research-reading-2026-06-18.mp3" length="3856176" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-06-18-daily-ai-research-reading-2026-06-18.mp3</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>10:42</itunes:duration>
+    </item>
+    <item>
       <title>Daily Ai Research Reading 2026 06 17</title>
       <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-06-17-daily-ai-research-reading-2026-06-17.mp3" length="3857184" type="audio/mpeg"/>
       <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-06-17-daily-ai-research-reading-2026-06-17.mp3</guid>
