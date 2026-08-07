@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://xuefei-wang.github.io/aloud-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>The Era Of Experience Paper</title>
+      <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-08-07-the-era-of-experience-paper.mp3" length="16122096" type="audio/mpeg"/>
+      <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-08-07-the-era-of-experience-paper.mp3</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>44:47</itunes:duration>
+    </item>
+    <item>
       <title>Daily Ai Research Reading 2026 08 06</title>
       <enclosure url="https://xuefei-wang.github.io/aloud-feed/episodes/2026-08-06-daily-ai-research-reading-2026-08-06.mp3" length="4235760" type="audio/mpeg"/>
       <guid>https://xuefei-wang.github.io/aloud-feed/episodes/2026-08-06-daily-ai-research-reading-2026-08-06.mp3</guid>
